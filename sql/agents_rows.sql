@@ -1,0 +1,1 @@
+INSERT INTO "public"."agents" ("id", "name", "email", "created_at") VALUES ('79061bab-e382-47b7-9e52-cd5def0fdf1b', 'Dinesh Kumar Verma', 'dular88@gmail.com', '2025-03-10 09:58:38.255868'), ('c445c9c7-888e-4da3-90de-0f38d17f5673', 'Govinda Kumar Verma', 'govinda@gmail.com', '2025-03-10 09:58:07.779692');

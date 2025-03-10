@@ -1,0 +1,1 @@
+INSERT INTO "public"."tickets" ("id", "title", "description", "status", "priority", "assigned_to", "created_at", "updated_at") VALUES ('2dbfabed-334a-43b3-9e1a-e653e3e900c0', 'Issue with login', 'Unable to log in with my email address.', 'open', 'high', '79061bab-e382-47b7-9e52-cd5def0fdf1b', '2025-03-10 10:00:18.510898', '2025-03-10 10:00:18.510898');
